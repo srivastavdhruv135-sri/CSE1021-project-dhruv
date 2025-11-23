@@ -3,7 +3,7 @@ import sys
 import pyfiglet
 
 #the welcome screen
-big_text = pyfiglet.figlet_format("TIK TAC TOE")
+big_text = pyfiglet.figlet_format("TIC TAC TOE")
 print(big_text)
 
 # --- Core Game Logic ---
